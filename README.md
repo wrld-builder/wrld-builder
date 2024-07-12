@@ -1,3 +1,9 @@
+### Who are you?
+Mikhail. Backend developer 🙂
+
+### Philosophy
+_I understand the importance of algorithms and data structures. I can apply existing technologies to build efficient and reliable solutions. Additionally, I have experience in optimizing code for performance and scalability, ensuring that systems are both robust and maintainable. My background in backend development allows me to design and implement architectures that meet complex requirements and handle high loads effectively._
+
 ### Main Stack Tree
 - #### Backend
   - Python, Django, DRF, Django ORM, FastApi, Flask, httpx, Aiohttp, Postgres
