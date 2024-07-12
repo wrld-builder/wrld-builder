@@ -1,4 +1,15 @@
-### Skills Tree
+### Main Stack Tree
+- #### Backend
+  - Python, Django, DRF, Django ORM, FastApi, Flask, httpx, Aiohttp, Postgres
+  - Node.js, Express.js, Vite, Sequelize
+  - C++, QT, libcpr/curl, GTest, WinAPI32
+  - Keras, numpy, matplotlib, TensorFlow (low)
+- ### Frontend
+  - CSS, Bootstrap, TailWindCSS, Javascript
+  - Codepen :)
+  - Vue, React (low)
+
+### Skills Badges
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -110,7 +121,7 @@
 ### Social Linktree
 - [vk.com/wlrd_builder](https://vk.com/wrld_builder)
 - [t.me/getvccalls](https://t.me/getvccalls)
-- shifo3456@gmail.com - personal email
+- shifo3456@gmail.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrld-builder&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wrld-builder&theme=solarized_dark)
